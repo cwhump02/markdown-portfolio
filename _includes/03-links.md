@@ -1,1 +1,1 @@
-My [Github](https://github.com/cwhump02)
+My profile on [Github](https://github.com/cwhump02)
