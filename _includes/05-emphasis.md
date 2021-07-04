@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Epic Computer Skills
+
+*Learning Kali Linux* <br>
+**HTML** <br>
+_Helpdesk_ <br>
+__CSS__
